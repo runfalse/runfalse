@@ -2,256 +2,309 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=1200&color=71717A&center=true&vCenter=true&width=600&lines=hello%2C+world+%F0%9F%91%8B;приятно+познакомиться.;я+делаю+веб+%D0%B8+backend.;иногда+ломаю%2C+чтобы+сделать+лучше." />
-
-<br><br>
-
 # `runfalse`
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=26&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=650&lines=developer.;builder.;problem+solver.;just+shipping." />
+### `K I R I L L`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Web+Developer;Backend+Developer;Automation+Builder;TypeScript+%2F+Node.js+%2F+Python;I+turn+ideas+into+software." alt="Typing"/>
 
 <br>
 
-`typescript` · `node.js` · `python` · `web` · `automation`
+`WEB`  •  `BACKEND`  •  `AUTOMATION`  •  `API`
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=6366f1" width="420"/>
+[![GitHub](https://img.shields.io/badge/GitHub-09090b?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/runfalse)
+[![Repositories](https://img.shields.io/badge/Repositories-09090b?style=for-the-badge\&logo=github\&logoColor=8b5cf6)](https://github.com/runfalse?tab=repositories)
+
+<br>
 
 </div>
-
-<br>
-
-```text id="q7c1ve"
-┌─[ runfalse@github ]
-│
-│  $ whoami
-│  Kirill
-│
-│  $ status
-│  building something interesting...
-│
-│  $ uptime
-│  3+ years writing code
-│
-└──────────────────────────────────────────────
-```
-
-<br>
-
-## `about`
-
-Я люблю делать не просто код, а **законченные вещи**.
-
-Сайт → сервер → база → API → интеграции → автоматизация.
-
-Если можно убрать рутину с помощью кода — скорее всего, я попробую.
-
-<br>
-
-<div align="center">
-
-`less talking`
-`more building`
-
-</div>
-
-<br>
 
 ---
 
 <div align="center">
 
-### `stack`
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=typescript,javascript,nodejs,python,php,react,nextjs,mysql,git,github,docker,linux&theme=dark&perline=6"/>
-
-</div>
-
-<br>
-
-```text id="v5v7em"
-             FRONTEND
-                │
-                ▼
-        ┌───────────────┐
-        │  React / Next │
-        └───────┬───────┘
-                │
-                ▼
-             BACKEND
-                │
-        ┌───────┴───────┐
-        ▼               ▼
-      Node.js          API
-        │               │
-        └───────┬───────┘
-                ▼
-             MySQL
-                │
-                ▼
-          integrations
-```
-
----
-
-<div align="center">
-
-### `things i've built`
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### `01 — Hardy FamQ`
-
-Discord + Web ecosystem.
-
-Бот, сайт, личный кабинет, админ-панель, заявки, контракты, роли, статистика и единая база.
-
-`Node.js` `MySQL` `Discord API`
-
-<br>
-
-</td>
-
-<td width="50%" valign="top">
-
-### `02 — AI Call Platform`
-
-Приложение для автоматизации звонков.
-
-Импорт данных, логика звонков, голос, сценарии, несколько аккаунтов и логирование.
-
-`Python` `PySide6`
-
-<br>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### `03 — Web`
-
-Сайты, панели и внутренние системы.
-
-От первого экрана до backend и базы данных.
-
-`JavaScript` `PHP` `Node.js`
-
-<br>
-
-</td>
-
-<td width="50%" valign="top">
-
-### `04 — automation`
-
-Скрипты, боты, парсеры и небольшие инструменты.
-
-Люблю превращать скучную работу в одну команду.
-
-`Python` `Node.js`
-
-<br>
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-### `currently`
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=900&color=818CF8&center=true&vCenter=true&width=650&lines=%E2%86%92+writing+code;%E2%86%92+building+projects;%E2%86%92+learning+new+things;%E2%86%92+fixing+things+I+broke+yesterday" />
-
-<br><br>
-
-```text id="4i1k2h"
-● online
-
-working on      ███████████████░░░  80%
-coffee          ██████████████████  100%
-sleep           █████░░░░░░░░░░░░░  25%
-bugs            ██████████████████  100%
+```text
+╭─────────────────────────────────────────────────────────────╮
+│                                                             │
+│                       П Р И В Е Т                            │
+│                                                             │
+│                    Я — Kirill / runfalse                   │
+│                                                             │
+│              разработчик из мира JavaScript                 │
+│                                                             │
+╰─────────────────────────────────────────────────────────────╯
 ```
 
 </div>
 
----
+## `~/about`
 
-<div align="center">
+Не люблю писать код ради самого кода.
 
-### `github`
+Мне интереснее собрать **полноценную систему**, где всё работает вместе:
 
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=runfalse&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&icon_color=818cf8&text_color=71717a&count_private=true&include_all_commits=true" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=runfalse&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=71717a&langs_count=6" height="165"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=runfalse&hide_border=true&background=00000000&ring=6366f1&fire=818cf8&currStreakLabel=ffffff&sideLabels=71717a&dates=52525b"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=runfalse&bg_color=00000000&color=52525b&line=6366f1&point=818cf8&area=true&hide_border=true&custom_title="/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-```text id="e9z2wp"
-────────────────────────────────────────────────────────
-
-             make it work.
-             make it clean.
-             make it yours.
-
-────────────────────────────────────────────────────────
+```text
+                    IDEA
+                     │
+                     ▼
+              ┌──────────────┐
+              │  ARCHITECTURE │
+              └──────┬───────┘
+                     │
+          ┌──────────┴──────────┐
+          ▼                     ▼
+       FRONTEND              BACKEND
+          │                     │
+          └──────────┬──────────┘
+                     ▼
+                  DATABASE
+                     │
+                     ▼
+                 API / BOT
+                     │
+                     ▼
+                AUTOMATION
+                     │
+                     ▼
+                  RESULT
 ```
 
-</div>
+**Моя цель простая:**
+
+> сделать сложное — понятным, а скучное — автоматическим.
 
 ---
 
 <div align="center">
 
-### `find me`
+## `~/stack`
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,python,php,html,css,nextjs,react,mysql,git,github,docker,linux&perline=7" alt="Tech stack"/>
+
+</div>
+
+<br>
+
+| Направление    | Что использую                          |
+| -------------- | -------------------------------------- |
+| **Языки**      | TypeScript · JavaScript · Python · PHP |
+| **Frontend**   | HTML · CSS · React · Next.js           |
+| **Backend**    | Node.js · REST API · серверная логика  |
+| **Database**   | MySQL                                  |
+| **Automation** | Python · Node.js · Bots · Parsers      |
+| **Tools**      | Git · GitHub · Linux · Docker          |
+
+---
+
+<div align="center">
+
+## `~/projects`
+
+</div>
+
+### `01` — Hardy FamQ
+
+**Discord + Web ecosystem**
+
+Большая система, объединяющая Discord-бота, сайт, личный кабинет, администрацию и базу данных.
+
+```text
+Discord
+   │
+   ├── Bot
+   ├── Roles
+   └── Events
+          │
+          ▼
+       Backend
+          │
+     ┌────┴────┐
+     ▼         ▼
+  Website    MySQL
+     │
+     ▼
+ Admin Panel
+```
+
+`Node.js` `JavaScript` `MySQL` `Discord API`
+
+---
+
+### `02` — AI Call Platform
+
+**Автоматизация звонков**
+
+Desktop-приложение с импортом данных, сценариями звонков, голосом, логикой обработки и логированием.
+
+```text
+Excel
+  ↓
+Import
+  ↓
+Processing
+  ↓
+Call Logic
+  ↓
+Voice
+  ↓
+Result
+  ↓
+Logs
+```
+
+`Python` `PySide6` `Automation`
+
+---
+
+### `03` — Web Development
+
+Сайты, панели управления, личные кабинеты и внутренние системы.
+
+```text
+UI
+ ↓
+Frontend
+ ↓
+Backend
+ ↓
+Database
+ ↓
+API
+ ↓
+Production
+```
+
+`TypeScript` `JavaScript` `Node.js` `PHP` `MySQL`
+
+---
+
+<div align="center">
+
+## `~/github`
 
 <br>
 
 <a href="https://github.com/runfalse">
-<img src="https://img.shields.io/badge/github-18181b?style=flat-square&logo=github&logoColor=white"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=runfalse&show_icons=true&hide_border=true&bg_color=09090b&title_color=a78bfa&icon_color=8b5cf6&text_color=a1a1aa&count_private=true&include_all_commits=true&rank_icon=github" height="180"/>
+
 </a>
 
-<a href="https://t.me/">
-<img src="https://img.shields.io/badge/telegram-18181b?style=flat-square&logo=telegram&logoColor=white"/>
+<a href="https://github.com/runfalse">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=runfalse&layout=compact&hide_border=true&bg_color=09090b&title_color=a78bfa&text_color=a1a1aa&langs_count=6" height="180"/>
+
 </a>
 
 <br><br>
 
-`© 2026 runfalse`
+<a href="https://github.com/runfalse">
+
+<img src="https://streak-stats.demolab.com/?user=runfalse&theme=dark&hide_border=true&background=09090b&ring=8b5cf6&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=a1a1aa&dates=71717a" height="180"/>
+
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## `~/activity`
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:6366f1,45:312e81,100:09090b&animation=fadeIn" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=runfalse&bg_color=09090b&color=a1a1aa&line=8b5cf6&point=c4b5fd&area=true&hide_border=true&custom_title=GitHub%20Activity" width="95%" alt="GitHub activity"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## `~/currently`
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=%3E+building+new+things...;%3E+writing+backend...;%3E+automating+boring+stuff...;%3E+fixing+bugs...;%3E+shipping." alt="Currently"/>
+
+<br><br>
+
+```text
+┌──────────────────────────────────────────┐
+│                                          │
+│  STATUS       ● ONLINE                   │
+│                                          │
+│  FOCUS        Web / Backend              │
+│                                          │
+│  MAIN         TypeScript + Node.js       │
+│                                          │
+│  SECONDARY    Python                     │
+│                                          │
+│  MOOD         ████████████████░░  90%    │
+│                                          │
+└──────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+<div align="center">
+
+## `~/philosophy`
+
+<br>
+
+```text
+┌─────────────────────────────────────────────┐
+│                                             │
+│   сначала сделать                            │
+│          ↓                                  │
+│   потом понять                               │
+│          ↓                                  │
+│   потом улучшить                             │
+│          ↓                                  │
+│   потом ещё раз                              │
+│                                             │
+└─────────────────────────────────────────────┘
+```
+
+<br>
+
+### `build → break → fix → improve`
+
+</div>
+
+---
+
+<div align="center">
+
+## `~/contact`
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-09090b?style=for-the-badge\&logo=github\&logoColor=ffffff)](https://github.com/runfalse)
+
+[![Telegram](https://img.shields.io/badge/Telegram-09090b?style=for-the-badge\&logo=telegram\&logoColor=8b5cf6)](https://t.me/)
+
+<br><br>
+
+```text
+╭──────────────────────────────────────╮
+│                                      │
+│        have an idea?                 │
+│        let's build it.               │
+│                                      │
+╰──────────────────────────────────────╯
+```
+
+<br>
+
+`© 2026 runfalse`
 
 </div>
