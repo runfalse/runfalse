@@ -1,23 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=RUNFALSE&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=FULL%20STACK%20WEB%20DEVELOPER&descAlignY=58&descSize=16&animation=fadeIn&color=0:050505,50:111827,100:4f46e5" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=runfalse&fontSize=86&fontAlignY=38&fontColor=ffffff&animation=fadeIn&color=0:030712,35:111827,70:312e81,100:6366f1" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=700&color=818CF8&center=true&vCenter=true&width=720&lines=Building+digital+experiences+that+matter.;TypeScript+%2B+Node.js+%2B+Python.;Backend+%7C+Automation+%7C+APIs.;Turning+ideas+into+production-ready+software." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=2600&pause=900&color=818CF8&center=true&vCenter=true&width=850&lines=Разрабатываю+вещи%2C+которыми+приятно+пользоваться.;Сайты+%E2%80%A2+Backend+%E2%80%A2+API+%E2%80%A2+Автоматизация;TypeScript+%2B+Node.js+%2B+Python;Идея+%E2%86%92+Архитектура+%E2%86%92+Код+%E2%86%92+Результат" alt="Typing animation"/>
 
 <br><br>
 
-<a href="https://github.com/runfalse">
-<img src="https://img.shields.io/badge/PROFILE-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://github.com/runfalse?tab=repositories">
-<img src="https://img.shields.io/badge/PROJECTS-111827?style=for-the-badge&logo=github&logoColor=818CF8"/>
-</a>
+<img src="https://img.shields.io/badge/РАЗРАБОТКА-111827?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/BACKEND-111827?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/AUTOMATION-111827?style=for-the-badge&logoColor=white"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=runfalse&label=PROFILE%20VIEWS&color=4f46e5&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=runfalse&label=ЗАШЛИ_ПОСМОТРЕТЬ&color=6366f1&style=flat-square"/>
 
 </div>
 
@@ -25,40 +22,134 @@
 
 <div align="center">
 
-### `01 / ABOUT`
+```text
+╭──────────────────────────────────────────────────────────────╮
+│                                                              │
+│                     П Р И В Е Т .                            │
+│                                                              │
+│                    Я — KIRILL / runfalse                     │
+│                                                              │
+│       web developer • backend • automation • systems        │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
+```
+
+</div>
+
+## `01 / немного обо мне`
+
+Я разработчик, который любит превращать идеи в **полноценные работающие продукты**.
+
+Не только написать пару строк кода, а собрать всё целиком:
+
+```text
+идея
+  ↓
+архитектура
+  ↓
+интерфейс
+  ↓
+backend
+  ↓
+database
+  ↓
+API / интеграции
+  ↓
+автоматизация
+  ↓
+готовый продукт
+```
+
+Основной стек — **TypeScript / JavaScript / Node.js / Python**.
+
+Особенно люблю проекты, где приходится соединять несколько технологий в одну систему.
+
+---
+
+<div align="center">
+
+## `02 / мой стек`
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,python,php,html,css,nextjs,react,mysql,git,github,linux,docker&perline=7&theme=dark"/>
+
+</div>
+
+<br>
+
+```text
+╭───────────────────────╮
+│                       │
+│  ЯЗЫКИ                │
+│  ───────────────────  │
+│  TypeScript           │
+│  JavaScript           │
+│  Python               │
+│  PHP                  │
+│                       │
+│  BACKEND              │
+│  ───────────────────  │
+│  Node.js              │
+│  REST API             │
+│  MySQL                │
+│                       │
+│  FRONTEND             │
+│  ───────────────────  │
+│  HTML / CSS            │
+│  React                 │
+│  Next.js               │
+│                       │
+╰───────────────────────╯
+```
+
+---
+
+<div align="center">
+
+## `03 / что я делаю`
 
 </div>
 
 <table>
 <tr>
-<td width="60%">
+<td align="center" width="25%">
 
-## Hey, I'm **Kirill** 👋
+### ◈ Сайты
 
-I'm a web developer focused on building **modern applications, backend systems and automation tools**.
-
-I enjoy taking an idea from a rough concept and turning it into something that actually works — from UI and APIs to databases, integrations and deployment.
-
-My main focus is **JavaScript / TypeScript, Node.js and Python**.
+Современные сайты,
+лендинги, кабинеты
+и веб-приложения.
 
 </td>
 
-<td width="40%">
+<td align="center" width="25%">
 
-```yaml
-username: runfalse
-role: Web Developer
+### ◈ Backend
 
-focus:
-  - Backend
-  - Automation
-  - APIs
-  - Web Apps
+API, серверная логика,
+авторизация, базы данных
+и архитектура.
 
-experience: 3+ years
+</td>
 
-status: Building
-```
+<td align="center" width="25%">
+
+### ◈ Автоматизация
+
+Скрипты, парсеры,
+боты и автоматизация
+рутинных процессов.
+
+</td>
+
+<td align="center" width="25%">
+
+### ◈ Интеграции
+
+Discord, Telegram,
+внешние API
+и сторонние сервисы.
 
 </td>
 </tr>
@@ -68,248 +159,148 @@ status: Building
 
 <div align="center">
 
-### `02 / STACK`
+## `04 / избранные проекты`
 
 </div>
 
-<div align="center">
+### `01` — Hardy FamQ
 
-#### CORE
+> Большая система, объединяющая **Discord-бота, сайт, личный кабинет, админ-панель и MySQL**.
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,nodejs,php&theme=dark" />
-
-<br><br>
-
-#### WEB
-
-<img src="https://skillicons.dev/icons?i=html,css,nextjs,react&theme=dark" />
-
-<br><br>
-
-#### DATABASE / TOOLS
-
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,linux,docker&theme=dark" />
-
-</div>
-
----
-
-<div align="center">
-
-### `03 / WHAT I BUILD`
-
-</div>
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-### 🌐
-
-**WEB**
-
-Modern websites
-Web applications
-Admin panels
-Personal cabinets
-
-</td>
-
-<td align="center" width="25%">
-
-### ⚡
-
-**BACKEND**
-
-REST APIs
-Authentication
-Databases
-Server architecture
-
-</td>
-
-<td align="center" width="25%">
-
-### 🤖
-
-**AUTOMATION**
-
-Bots
-Parsers
-Scripts
-Automated workflows
-
-</td>
-
-<td align="center" width="25%">
-
-### 🔌
-
-**INTEGRATIONS**
-
+```text
 Discord
-Telegram
-External APIs
-Third-party services
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-### `04 / FEATURED PROJECTS`
-
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-## 🏠 Hardy FamQ
-
-**Discord ecosystem + web platform**
-
-A full-featured ecosystem connecting a Discord bot, website, administration panel and MySQL database.
-
-`Node.js` `JavaScript` `MySQL` `Discord API`
-
-**Core features**
-
-* Discord synchronization
-* Personal cabinet
-* Admin panel
-* Applications
-* Contracts
-* Role synchronization
-* Statistics
-* Action logs
-
-</td>
-
-<td width="50%">
-
-## 📞 AI Call Platform
-
-**AI-powered calling application**
-
-Desktop application designed around automated calling workflows and dynamic voice interaction.
-
-`Python` `PySide6`
-
-**Core features**
-
-* Excel import
-* Automated calls
-* Voice configuration
-* Dynamic speech
-* Call logic
-* Multiple accounts
-* Logging
-* Statistics
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-## 🌐 Developer Portfolio
-
-**Personal developer platform**
-
-A modern portfolio focused on projects, technology and development services.
-
-`Node.js` `JavaScript` `PHP` `MySQL`
-
-</td>
-
-<td width="50%">
-
-## 🚀 More projects
-
-I'm constantly experimenting with new ideas, tools and architectures.
-
-More projects are available in my repositories.
-
-<br>
-
-<a href="https://github.com/runfalse?tab=repositories">
-
-<img src="https://img.shields.io/badge/EXPLORE_REPOSITORIES-4f46e5?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-### `05 / ENGINEERING MINDSET`
-
-</div>
-
-```text
-                 ┌───────────────────────┐
-                 │        IDEA           │
-                 └───────────┬───────────┘
-                             │
-                             ▼
-                 ┌───────────────────────┐
-                 │       ARCHITECTURE    │
-                 └───────────┬───────────┘
-                             │
-                             ▼
-                 ┌───────────────────────┐
-                 │       DEVELOPMENT     │
-                 └───────────┬───────────┘
-                             │
-                             ▼
-                 ┌───────────────────────┐
-                 │       INTEGRATION     │
-                 └───────────┬───────────┘
-                             │
-                             ▼
-                 ┌───────────────────────┐
-                 │       OPTIMIZATION    │
-                 └───────────┬───────────┘
-                             │
-                             ▼
-                 ┌───────────────────────┐
-                 │       PRODUCTION      │
-                 └───────────────────────┘
+   │
+   ├── Bot
+   │
+   ├── Roles
+   │
+   └── Events
+         │
+         ▼
+      Backend
+         │
+    ┌────┴────┐
+    ▼         ▼
+ Website    MySQL
+    │
+    ▼
+ Admin Panel
 ```
 
-> **Clean architecture. Practical solutions. Production mindset.**
+**Внутри:**
+
+`Discord API` · `Node.js` · `JavaScript` · `MySQL` · `REST`
+
+---
+
+### `02` — AI Call Platform
+
+> Desktop-приложение для автоматизации звонков и работы с данными.
+
+```text
+Excel
+  ↓
+Импорт данных
+  ↓
+Обработка
+  ↓
+Логика звонка
+  ↓
+Голос / текст
+  ↓
+Результат
+  ↓
+Логи
+```
+
+**Стек:**
+
+`Python` · `PySide6` · `Excel` · `Automation`
+
+---
+
+### `03` — Web Projects
+
+> Разработка сайтов и внутренних систем с нуля.
+
+От:
+
+```text
+UI / UX
+```
+
+до:
+
+```text
+Frontend → Backend → Database → API → Deploy
+```
 
 ---
 
 <div align="center">
 
-### `06 / GITHUB ANALYTICS`
+## `05 / как я подхожу к разработке`
+
+<br>
+
+```text
+              ┌─────────────┐
+              │    ИДЕЯ     │
+              └──────┬──────┘
+                     │
+                     ▼
+              ┌─────────────┐
+              │ АРХИТЕКТУРА │
+              └──────┬──────┘
+                     │
+                     ▼
+              ┌─────────────┐
+              │    CODE     │
+              └──────┬──────┘
+                     │
+                     ▼
+              ┌─────────────┐
+              │   TESTING   │
+              └──────┬──────┘
+                     │
+                     ▼
+              ┌─────────────┐
+              │ OPTIMIZATION│
+              └──────┬──────┘
+                     │
+                     ▼
+              ┌─────────────┐
+              │  PRODUCTION │
+              └─────────────┘
+```
+
+### `не просто работает — работает нормально.`
+
+</div>
+
+---
+
+<div align="center">
+
+## `06 / github stats`
 
 <br>
 
 <a href="https://github.com/runfalse">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=runfalse&show_icons=true&hide_border=true&bg_color=00000000&title_color=818cf8&icon_color=6366f1&text_color=94a3b8&include_all_commits=true&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=runfalse&show_icons=true&hide_border=true&bg_color=00000000&title_color=818cf8&icon_color=6366f1&text_color=94a3b8&include_all_commits=true&count_private=true"/>
 
 </a>
 
 <a href="https://github.com/runfalse">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=runfalse&layout=compact&hide_border=true&bg_color=00000000&title_color=818cf8&text_color=94a3b8&langs_count=8"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=runfalse&layout=compact&hide_border=true&bg_color=00000000&title_color=818cf8&text_color=94a3b8&langs_count=8"/>
 
 </a>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=runfalse&hide_border=true&background=00000000&ring=6366f1&fire=818cf8&currStreakLabel=818cf8&sideLabels=94a3b8&dates=64748b" />
+<img src="https://streak-stats.demolab.com?user=runfalse&hide_border=true&background=00000000&ring=6366f1&fire=818cf8&currStreakLabel=818cf8&sideLabels=94a3b8&dates=64748b"/>
 
 </div>
 
@@ -317,11 +308,11 @@ More projects are available in my repositories.
 
 <div align="center">
 
-### `07 / CONTRIBUTIONS`
+## `07 / активность`
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=runfalse&bg_color=00000000&color=94a3b8&line=6366f1&point=ffffff&area_color=4f46e5&area=true&hide_border=true&custom_title=Contribution%20Activity" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=runfalse&bg_color=00000000&color=94a3b8&line=6366f1&point=ffffff&area=true&hide_border=true&custom_title=Активность%20на%20GitHub" width="95%"/>
 
 </div>
 
@@ -329,11 +320,11 @@ More projects are available in my repositories.
 
 <div align="center">
 
-### `08 / TROPHIES`
+## `08 / trophies`
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=runfalse&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" width="95%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=runfalse&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7"/>
 
 </div>
 
@@ -341,31 +332,23 @@ More projects are available in my repositories.
 
 <div align="center">
 
-### `09 / CURRENTLY`
-
-<table>
-<tr>
-<td>
+## `09 / сейчас`
 
 ```text
-🔭  BUILDING
-    Modern web applications
-
-⚙️  WORKING WITH
-    TypeScript / Node.js / Python
-
-🧠  EXPLORING
-    Backend architecture
-    Automation
-    APIs
-
-🚀  GOAL
-    Build better software
+╭──────────────────────────────────────────────────────────────╮
+│                                                              │
+│  🔭  Делаю          веб-приложения и backend-системы         │
+│                                                              │
+│  ⚡  Люблю           автоматизацию и сложные интеграции      │
+│                                                              │
+│  🧠  Изучаю          архитектуру и новые инструменты        │
+│                                                              │
+│  🛠️  Использую      TypeScript / Node.js / Python            │
+│                                                              │
+│  🚀  Двигаюсь        от идеи к готовому продукту            │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
 ```
-
-</td>
-</tr>
-</table>
 
 </div>
 
@@ -373,12 +356,46 @@ More projects are available in my repositories.
 
 <div align="center">
 
-### `10 / CONNECT`
+## `10 / contribution snake`
+
+<br>
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## `11 / немного философии`
+
+<br>
+
+```text
+"Хороший код — это не тот,
+который сложно написать.
+
+Хороший код — тот,
+который потом легко поддерживать."
+```
+
+<br>
+
+`build → break → fix → improve → repeat`
+
+</div>
+
+---
+
+<div align="center">
+
+## `12 / контакты`
 
 <br>
 
 <a href="https://github.com/runfalse">
-<img src="https://img.shields.io/badge/GITHUB-050505?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-050505?style=for-the-badge&logo=github&logoColor=ffffff"/>
 </a>
 
 <a href="https://t.me/">
@@ -387,10 +404,12 @@ More projects are available in my repositories.
 
 <br><br>
 
-> **Have an idea? Let's build it.**
+### `есть идея?`
+
+**давай превратим её в код.**
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:4f46e5,50:111827,100:050505&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:6366f1,40:312e81,75:111827,100:030712&animation=fadeIn" width="100%"/>
 
 </div>
