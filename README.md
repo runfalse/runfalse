@@ -1,23 +1,20 @@
 <div align="center">
 
-<br>
-
-# `runfalse`
-
-### `K I R I L L`
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Web+Developer;Backend+Developer;Automation+Builder;TypeScript+%2F+Node.js+%2F+Python;I+turn+ideas+into+software." alt="Typing"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=runfalse&fontSize=86&fontAlignY=38&fontColor=ffffff&animation=fadeIn&color=0:030712,35:111827,70:312e81,100:6366f1" width="100%"/>
 
 <br>
 
-`WEB`  •  `BACKEND`  •  `AUTOMATION`  •  `API`
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=2600&pause=900&color=818CF8&center=true&vCenter=true&width=850&lines=Разрабатываю+вещи%2C+которыми+приятно+пользоваться.;Сайты+%E2%80%A2+Backend+%E2%80%A2+API+%E2%80%A2+Автоматизация;TypeScript+%2B+Node.js+%2B+Python;Идея+%E2%86%92+Архитектура+%E2%86%92+Код+%E2%86%92+Результат" alt="Typing animation"/>
 
 <br><br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-09090b?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/runfalse)
-[![Repositories](https://img.shields.io/badge/Repositories-09090b?style=for-the-badge\&logo=github\&logoColor=8b5cf6)](https://github.com/runfalse?tab=repositories)
+<img src="https://img.shields.io/badge/РАЗРАБОТКА-111827?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/BACKEND-111827?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/AUTOMATION-111827?style=for-the-badge&logoColor=white"/>
 
-<br>
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=runfalse&label=ЗАШЛИ_ПОСМОТРЕТЬ&color=6366f1&style=flat-square"/>
 
 </div>
 
@@ -26,285 +23,393 @@
 <div align="center">
 
 ```text
-╭─────────────────────────────────────────────────────────────╮
-│                                                             │
-│                       П Р И В Е Т                            │
-│                                                             │
-│                    Я — Kirill / runfalse                   │
-│                                                             │
-│              разработчик из мира JavaScript                 │
-│                                                             │
-╰─────────────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────────╮
+│                                                              │
+│                     П Р И В Е Т .                            │
+│                                                              │
+│                    Я — KIRILL / runfalse                     │
+│                                                              │
+│       web developer • backend • automation • systems        │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
 ```
 
 </div>
 
-## `~/about`
+## `01 / немного обо мне`
 
-Не люблю писать код ради самого кода.
+Я разработчик, который любит превращать идеи в **полноценные работающие продукты**.
 
-Мне интереснее собрать **полноценную систему**, где всё работает вместе:
+Не только написать пару строк кода, а собрать всё целиком:
 
 ```text
-                    IDEA
-                     │
-                     ▼
-              ┌──────────────┐
-              │  ARCHITECTURE │
-              └──────┬───────┘
-                     │
-          ┌──────────┴──────────┐
-          ▼                     ▼
-       FRONTEND              BACKEND
-          │                     │
-          └──────────┬──────────┘
-                     ▼
-                  DATABASE
-                     │
-                     ▼
-                 API / BOT
-                     │
-                     ▼
-                AUTOMATION
-                     │
-                     ▼
-                  RESULT
+идея
+  ↓
+архитектура
+  ↓
+интерфейс
+  ↓
+backend
+  ↓
+database
+  ↓
+API / интеграции
+  ↓
+автоматизация
+  ↓
+готовый продукт
 ```
 
-**Моя цель простая:**
+Основной стек — **TypeScript / JavaScript / Node.js / Python**.
 
-> сделать сложное — понятным, а скучное — автоматическим.
+Особенно люблю проекты, где приходится соединять несколько технологий в одну систему.
 
 ---
 
 <div align="center">
 
-## `~/stack`
+## `02 / мой стек`
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=ts,js,nodejs,python,php,html,css,nextjs,react,mysql,git,github,docker,linux&perline=7" alt="Tech stack"/>
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,python,php,html,css,nextjs,react,mysql,git,github,linux,docker&perline=7&theme=dark"/>
 
 </div>
 
 <br>
 
-| Направление    | Что использую                          |
-| -------------- | -------------------------------------- |
-| **Языки**      | TypeScript · JavaScript · Python · PHP |
-| **Frontend**   | HTML · CSS · React · Next.js           |
-| **Backend**    | Node.js · REST API · серверная логика  |
-| **Database**   | MySQL                                  |
-| **Automation** | Python · Node.js · Bots · Parsers      |
-| **Tools**      | Git · GitHub · Linux · Docker          |
+```text
+╭───────────────────────╮
+│                       │
+│  ЯЗЫКИ                │
+│  ───────────────────  │
+│  TypeScript           │
+│  JavaScript           │
+│  Python               │
+│  PHP                  │
+│                       │
+│  BACKEND              │
+│  ───────────────────  │
+│  Node.js              │
+│  REST API             │
+│  MySQL                │
+│                       │
+│  FRONTEND             │
+│  ───────────────────  │
+│  HTML / CSS            │
+│  React                 │
+│  Next.js               │
+│                       │
+╰───────────────────────╯
+```
 
 ---
 
 <div align="center">
 
-## `~/projects`
+## `03 / что я делаю`
+
+</div>
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### ◈ Сайты
+
+Современные сайты,
+лендинги, кабинеты
+и веб-приложения.
+
+</td>
+
+<td align="center" width="25%">
+
+### ◈ Backend
+
+API, серверная логика,
+авторизация, базы данных
+и архитектура.
+
+</td>
+
+<td align="center" width="25%">
+
+### ◈ Автоматизация
+
+Скрипты, парсеры,
+боты и автоматизация
+рутинных процессов.
+
+</td>
+
+<td align="center" width="25%">
+
+### ◈ Интеграции
+
+Discord, Telegram,
+внешние API
+и сторонние сервисы.
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## `04 / избранные проекты`
 
 </div>
 
 ### `01` — Hardy FamQ
 
-**Discord + Web ecosystem**
-
-Большая система, объединяющая Discord-бота, сайт, личный кабинет, администрацию и базу данных.
+> Большая система, объединяющая **Discord-бота, сайт, личный кабинет, админ-панель и MySQL**.
 
 ```text
 Discord
    │
    ├── Bot
+   │
    ├── Roles
+   │
    └── Events
-          │
-          ▼
-       Backend
-          │
-     ┌────┴────┐
-     ▼         ▼
-  Website    MySQL
-     │
-     ▼
+         │
+         ▼
+      Backend
+         │
+    ┌────┴────┐
+    ▼         ▼
+ Website    MySQL
+    │
+    ▼
  Admin Panel
 ```
 
-`Node.js` `JavaScript` `MySQL` `Discord API`
+**Внутри:**
+
+`Discord API` · `Node.js` · `JavaScript` · `MySQL` · `REST`
 
 ---
 
 ### `02` — AI Call Platform
 
-**Автоматизация звонков**
-
-Desktop-приложение с импортом данных, сценариями звонков, голосом, логикой обработки и логированием.
+> Desktop-приложение для автоматизации звонков и работы с данными.
 
 ```text
 Excel
   ↓
-Import
+Импорт данных
   ↓
-Processing
+Обработка
   ↓
-Call Logic
+Логика звонка
   ↓
-Voice
+Голос / текст
   ↓
-Result
+Результат
   ↓
-Logs
+Логи
 ```
 
-`Python` `PySide6` `Automation`
+**Стек:**
+
+`Python` · `PySide6` · `Excel` · `Automation`
 
 ---
 
-### `03` — Web Development
+### `03` — Web Projects
 
-Сайты, панели управления, личные кабинеты и внутренние системы.
+> Разработка сайтов и внутренних систем с нуля.
+
+От:
 
 ```text
-UI
- ↓
-Frontend
- ↓
-Backend
- ↓
-Database
- ↓
-API
- ↓
-Production
+UI / UX
 ```
 
-`TypeScript` `JavaScript` `Node.js` `PHP` `MySQL`
+до:
+
+```text
+Frontend → Backend → Database → API → Deploy
+```
 
 ---
 
 <div align="center">
 
-## `~/github`
+## `05 / как я подхожу к разработке`
+
+<br>
+
+```text
+              ┌─────────────┐
+              │    ИДЕЯ     │
+              └──────┬──────┘
+                     │
+                     ▼
+              ┌─────────────┐
+              │ АРХИТЕКТУРА │
+              └──────┬──────┘
+                     │
+                     ▼
+              ┌─────────────┐
+              │    CODE     │
+              └──────┬──────┘
+                     │
+                     ▼
+              ┌─────────────┐
+              │   TESTING   │
+              └──────┬──────┘
+                     │
+                     ▼
+              ┌─────────────┐
+              │ OPTIMIZATION│
+              └──────┬──────┘
+                     │
+                     ▼
+              ┌─────────────┐
+              │  PRODUCTION │
+              └─────────────┘
+```
+
+### `не просто работает — работает нормально.`
+
+</div>
+
+---
+
+<div align="center">
+
+## `06 / github stats`
 
 <br>
 
 <a href="https://github.com/runfalse">
 
-<img src="https://github-readme-stats.vercel.app/api?username=runfalse&show_icons=true&hide_border=true&bg_color=09090b&title_color=a78bfa&icon_color=8b5cf6&text_color=a1a1aa&count_private=true&include_all_commits=true&rank_icon=github" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=runfalse&show_icons=true&hide_border=true&bg_color=00000000&title_color=818cf8&icon_color=6366f1&text_color=94a3b8&include_all_commits=true&count_private=true"/>
 
 </a>
 
 <a href="https://github.com/runfalse">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=runfalse&layout=compact&hide_border=true&bg_color=09090b&title_color=a78bfa&text_color=a1a1aa&langs_count=6" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=runfalse&layout=compact&hide_border=true&bg_color=00000000&title_color=818cf8&text_color=94a3b8&langs_count=8"/>
 
 </a>
 
 <br><br>
+
+<img src="https://streak-stats.demolab.com?user=runfalse&hide_border=true&background=00000000&ring=6366f1&fire=818cf8&currStreakLabel=818cf8&sideLabels=94a3b8&dates=64748b"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## `07 / активность`
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=runfalse&bg_color=00000000&color=94a3b8&line=6366f1&point=ffffff&area=true&hide_border=true&custom_title=Активность%20на%20GitHub" width="95%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## `08 / trophies`
+
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=runfalse&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## `09 / сейчас`
+
+```text
+╭──────────────────────────────────────────────────────────────╮
+│                                                              │
+│  🔭  Делаю          веб-приложения и backend-системы         │
+│                                                              │
+│  ⚡  Люблю           автоматизацию и сложные интеграции      │
+│                                                              │
+│  🧠  Изучаю          архитектуру и новые инструменты        │
+│                                                              │
+│  🛠️  Использую      TypeScript / Node.js / Python            │
+│                                                              │
+│  🚀  Двигаюсь        от идеи к готовому продукту            │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
+```
+
+</div>
+
+---
+
+<div align="center">
+
+## `10 / contribution snake`
+
+<br>
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## `11 / немного философии`
+
+<br>
+
+```text
+"Хороший код — это не тот,
+который сложно написать.
+
+Хороший код — тот,
+который потом легко поддерживать."
+```
+
+<br>
+
+`build → break → fix → improve → repeat`
+
+</div>
+
+---
+
+<div align="center">
+
+## `12 / контакты`
+
+<br>
 
 <a href="https://github.com/runfalse">
-
-<img src="https://streak-stats.demolab.com/?user=runfalse&theme=dark&hide_border=true&background=09090b&ring=8b5cf6&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=a1a1aa&dates=71717a" height="180"/>
-
+<img src="https://img.shields.io/badge/GITHUB-050505?style=for-the-badge&logo=github&logoColor=ffffff"/>
 </a>
 
-</div>
-
----
-
-<div align="center">
-
-## `~/activity`
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=runfalse&bg_color=09090b&color=a1a1aa&line=8b5cf6&point=c4b5fd&area=true&hide_border=true&custom_title=GitHub%20Activity" width="95%" alt="GitHub activity"/>
-
-</div>
-
----
-
-<div align="center">
-
-## `~/currently`
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=%3E+building+new+things...;%3E+writing+backend...;%3E+automating+boring+stuff...;%3E+fixing+bugs...;%3E+shipping." alt="Currently"/>
+<a href="https://t.me/">
+<img src="https://img.shields.io/badge/TELEGRAM-050505?style=for-the-badge&logo=telegram&logoColor=26A5E4"/>
+</a>
 
 <br><br>
 
-```text
-┌──────────────────────────────────────────┐
-│                                          │
-│  STATUS       ● ONLINE                   │
-│                                          │
-│  FOCUS        Web / Backend              │
-│                                          │
-│  MAIN         TypeScript + Node.js       │
-│                                          │
-│  SECONDARY    Python                     │
-│                                          │
-│  MOOD         ████████████████░░  90%    │
-│                                          │
-└──────────────────────────────────────────┘
-```
+### `есть идея?`
 
-</div>
-
----
-
-<div align="center">
-
-## `~/philosophy`
+**давай превратим её в код.**
 
 <br>
 
-```text
-┌─────────────────────────────────────────────┐
-│                                             │
-│   сначала сделать                            │
-│          ↓                                  │
-│   потом понять                               │
-│          ↓                                  │
-│   потом улучшить                             │
-│          ↓                                  │
-│   потом ещё раз                              │
-│                                             │
-└─────────────────────────────────────────────┘
-```
-
-<br>
-
-### `build → break → fix → improve`
-
-</div>
-
----
-
-<div align="center">
-
-## `~/contact`
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-09090b?style=for-the-badge\&logo=github\&logoColor=ffffff)](https://github.com/runfalse)
-
-[![Telegram](https://img.shields.io/badge/Telegram-09090b?style=for-the-badge\&logo=telegram\&logoColor=8b5cf6)](https://t.me/)
-
-<br><br>
-
-```text
-╭──────────────────────────────────────╮
-│                                      │
-│        have an idea?                 │
-│        let's build it.               │
-│                                      │
-╰──────────────────────────────────────╯
-```
-
-<br>
-
-`© 2026 runfalse`
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:6366f1,40:312e81,75:111827,100:030712&animation=fadeIn" width="100%"/>
 
 </div>
