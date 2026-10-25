@@ -161,7 +161,16 @@ const runfalse = {
 
 <div align="center">
 
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=runfalse&bg_color=0d1117&color=ffffff&line=6366f1&point=ffffff&area=true&hide_border=true&custom_title=%D0%93%D1%80%D0%B0%D1%84%D0%B8%D0%BA%20%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D0%B8" alt="График активности GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=runfalse&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=9ca3af&icon_color=6366f1&rank_icon=github&locale=ru" alt="Статистика GitHub" width="49%" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=runfalse&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=9ca3af&langs_count=6&locale=ru" alt="Языки программирования" width="49%" />
+
+</div>
+
+<div align="center">
+
+  <img src="https://img.shields.io/github/followers/runfalse?style=flat-square&color=6366f1&labelColor=0d1117&label=Подписчики" alt="Подписчики GitHub" />
+  <img src="https://img.shields.io/github/stars/runfalse?style=flat-square&color=6366f1&labelColor=0d1117&label=Звёзды" alt="Звёзды GitHub" />
 
 </div>
 
